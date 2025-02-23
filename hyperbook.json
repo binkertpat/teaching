@@ -1,11 +1,40 @@
 {
-  "name": "teaching",
-  "version": "0.0.0",
+  "name": "Teaching@BvC",
+  "version": "0.0.1",
   "description": "Teaching physics and computer science.",
-  "license": "cc0",
+  "search": true,
+  "qrcode": true,
   "author": {
     "name": "Patrick Binkert",
-    "url": "binkert-patrick.de"
+    "url": "https://binkert-patrick.de"
   },
-  "language": "de"
+  "language": "de",
+  "font": "/font/poppins.woff2",
+  "logo": "/logo.png",
+  "license": "CC-BY-SA",
+  "basePath": "/teaching-github-pages",
+  "repo": {
+    "url": "https://github.com/binkertpat/teaching-github-pages/edit/main/%path%",
+    "label": "Edit on GitHub"
+  },
+  "links": [
+    {
+      "label": "Kontakt",
+      "links": [
+        {
+          "label": "Mail",
+          "icon": "📧",
+          "href": "mailto:hello@binkert-patrick.de"
+        },
+        {
+          "label": "BvC",
+          "icon": "🏫",
+          "href": "https://cottagym.de"
+        }
+      ]
+    }
+  ],
+  "styles": [
+    "/style.css"
+  ]
 }
