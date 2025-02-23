@@ -13,10 +13,6 @@
   "logo": "/logo.png",
   "license": "CC-BY-SA",
   "basePath": "/",
-  "repo": {
-    "url": "https://github.com/binkertpat/teaching",
-    "label": "Edit on GitHub"
-  },
   "links": [
     {
       "label": "Kontakt",
