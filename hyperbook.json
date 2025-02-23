@@ -12,9 +12,9 @@
   "font": "/font/poppins.woff2",
   "logo": "/logo.png",
   "license": "CC-BY-SA",
-  "basePath": "/teaching-github-pages",
+  "basePath": "/teaching",
   "repo": {
-    "url": "https://github.com/binkertpat/teaching-github-pages/edit/main/%path%",
+    "url": "https://github.com/binkertpat/teaching",
     "label": "Edit on GitHub"
   },
   "links": [
