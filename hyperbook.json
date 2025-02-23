@@ -1,0 +1,11 @@
+{
+  "name": "teaching",
+  "version": "0.0.0",
+  "description": "Teaching physics and computer science.",
+  "license": "cc0",
+  "author": {
+    "name": "Patrick Binkert",
+    "url": "binkert-patrick.de"
+  },
+  "language": "de"
+}
