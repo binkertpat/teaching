@@ -12,7 +12,7 @@
   "font": "/font/poppins.woff2",
   "logo": "/logo.png",
   "license": "CC-BY-SA",
-  "basePath": "/teaching",
+  "basePath": "/",
   "repo": {
     "url": "https://github.com/binkertpat/teaching",
     "label": "Edit on GitHub"
