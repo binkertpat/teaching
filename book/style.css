@@ -1,0 +1,8 @@
+.sidebar > a.author {
+    display: none;
+}
+
+.directive-embed {
+    height: unset !important;
+    aspect-ratio: 4 / 4 !important;
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Teaching@BvC",
+  "version": "0.0.1",
+  "description": "Teaching physics and computer science.",
+  "search": true,
+  "qrcode": true,
+  "license": "cc-by-sa",
+  "author": {
+    "name": "Patrick Binkert",
+    "url": "https://binkert-patrick.de"
+  },
+  "language": "de",
+  "font": "/poppins.woff2:100%",
+  "logo": "/logo.png",
+  "basePath": "/",
+  "links": [
+    {
+      "label": "Kontakt",
+      "links": [
+        {
+          "label": "Mail",
+          "icon": "📧",
+          "href": "mailto:hello@binkert-patrick.de"
+        },
+        {
+          "label": "BvC",
+          "icon": "🏫",
+          "href": "https://cottagym.de"
+        }
+      ]
+    }
+  ],
+  "styles": [
+    "/style.css"
+  ],
+  "elements": {
+    "bookmarks": false
+  },
+  "colors":{
+    "brand": "#00759a",
+    "brandDark": "#00759a",
+    "brandText": "#fff"
+  },
+  "trailingSlash":true
+}
